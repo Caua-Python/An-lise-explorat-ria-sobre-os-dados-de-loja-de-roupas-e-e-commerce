@@ -1,0 +1,15 @@
+df1 = pd.read_csv("Sale Report.csv")
+
+display(df1)
+
+df1.isna()
+
+df1.duplicated()
+
+df1['SKU Code'] = df1['SKU Code'].replace('#REF!', 'Not Found')
+
+df1.describe(include="O")
+
+df["Size"].value_counts()
+
+df1[df1['Stock'] == 0]
