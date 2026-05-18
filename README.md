@@ -1,7 +1,7 @@
 ## *Análise exploratória sobre os dados de loja de roupas e e-commerce* 📊
 
 # 🛠️ Como fazer?
-Primeiro, baixe o arquivo para importar no colab ou no jupyter notebook. Não esqueça de importa também o pandas, é fundamental!
+Primeiro, baixe o arquivo "Sale Report.csv" para importar no colab ou no jupyter notebook. Não esqueça de importa também o pandas, é fundamental!
 
 Depois, interprete os dados, entenda o seu contexto e como você pode realizar a verificação.
 
